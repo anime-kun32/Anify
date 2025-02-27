@@ -1,4 +1,4 @@
-# Anify
+# Anify yep
 Robust anime, manga, and light novel web-app.
 
 ## Installation
